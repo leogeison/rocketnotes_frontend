@@ -5,7 +5,7 @@ import { api } from '../../services/api.js';
 
 import { Tag } from '../../componentes/Tag/index.jsx';
 import { Header } from '../../componentes/Header/index.jsx';
-import { Button } from '../../componentes/button/index.jsx';
+import { Button } from '../../componentes/Button/index.jsx';
 import { Section } from '../../componentes/Section/index.jsx';
 import { ButtonText } from '../../componentes/ButtonText/index.jsx';
 
@@ -78,4 +78,3 @@ export function Details() {
     </Container>
   );
 }
-
